@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bahaa assi
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Birzeit university
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently study at Birzeit University
+- 📫 bahaaox@gmail.com
 
 <!---
 bahaaoz/bahaaoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
